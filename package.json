@@ -1,0 +1,12 @@
+{
+	"name": "angular-todo-list",
+	"description": "Simple Angular TODO list",
+	"main": "server.js",
+	"dependencies": {
+		"express": "4.11.2",
+		"mongoose": "3.8.22",
+		"morgan": "1.5.1",
+		"body-parser": "1.11.0",
+		"method-override": "2.3.1"
+	}
+}
